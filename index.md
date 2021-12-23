@@ -1,6 +1,6 @@
 # The world is a long way
 ## Java “HelloWorld”实例
-public class HelloWorld {
+```public class HelloWorld {
 
     public static void main(String[] args) {
 
@@ -9,3 +9,4 @@ public class HelloWorld {
     }
 
 }
+```
