@@ -1,4 +1,4 @@
-# The world is a long way
+# Java笔记
 ## Java “HelloWorld”实例
 ```public class HelloWorld {
 
